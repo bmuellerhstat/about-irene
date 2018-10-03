@@ -1,3 +1,3 @@
 Irene Chen 
-
-icrejkce@gmail.com
+Email: icrejkce@gmail.com
+School: High School of Telecommunication Arts & Technology
