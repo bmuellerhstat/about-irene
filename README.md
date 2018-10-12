@@ -1,11 +1,13 @@
 # Irene Chen   
 ---
 #### _STUDENT_  
-**School**: High School of Telecommunication Arts & Technology (hstat)  
-**Email**: icrejkce@gmail.com
+High School of Telecommunication Arts & Technology (hstat)  
+icrejkce@gmail.com
 
-**About me**
-I'm a student at hstat. 
+**BIO**  
+Irene is a junior at hstat. She live in Brooklyn, NY for at least 10 years.  
+Other describe her as: talented, creative, and smart. Irene only agrees with two. :)  
+Irene is also in this special program in Hstat, SEP. 
 
 **Schedule**:
 1. Chemistry Lab/ Gym
