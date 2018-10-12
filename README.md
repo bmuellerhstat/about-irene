@@ -1,5 +1,5 @@
 # Irene Chen   
-STUDENT
+####STUDENT  
 **School**: High School of Telecommunication Arts & Technology  
 **Email**: icrejkce@gmail.com
 
