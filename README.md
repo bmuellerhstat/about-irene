@@ -1,11 +1,10 @@
 # Irene Chen   
 STUDENT
+**School**: High School of Telecommunication Arts & Technology  
+**Email**: icrejkce@gmail.com
 
-Email: icrejkce@gmail.com
 
-School: High School of Telecommunication Arts & Technology
-
-Schedule:
+**Schedule**:
 1. Chemistry Lab/ Gym
 2. Apchemistry 
 3. SEP
