@@ -1,13 +1,13 @@
 # Irene Chen   
 ---
-#### _STUDENT_  
+### _STUDENT_  
 High School of Telecommunication Arts & Technology (hstat)  
 icrejkce@gmail.com
 
 **BIO**  
-Irene is a junior at hstat. She live in Brooklyn, NY for at least 10 years.  
-Other describe her as: talented, creative, and smart. Irene only agrees with two. :)  
-Irene is also in this special program in Hstat, SEP. 
+*Irene is a junior at hstat. She live in Brooklyn, NY for at least 10 years.  
+*Other describe her as: talented, creative, and smart. Irene only agrees with two. :)  
+*Irene is also in this special program in Hstat, SEP. [Here is her last year's profolio](https://sites.google.com/a/hstat.org/irenec7418sep10/)
 
 **Schedule**:
 1. Chemistry Lab/ Gym
